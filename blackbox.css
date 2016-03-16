@@ -1,0 +1,27 @@
+.flexcontainer,.flexcontainer .blackBoxContent   {
+  display: flex;
+}
+
+.flexcontainer .blackBoxContent pre {
+  flex: 1;
+}
+
+.blackBoxContent {
+  width: 100%;
+/*  min-height: 150px;*/
+  display: inline-block;
+}
+
+
+.blackBoxContent PRE {
+/*  float: left;*/
+	font-size: 20px;
+	
+	text-align:left;
+	padding:8px;
+	background-color:black;
+	color:white;
+	font-size: 12px;
+	font-weight: bold;
+/*	max-width:320px;*/
+}
