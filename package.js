@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jorisroling:autoform-blackbox',
-  version: '1.0.1',
+  version: '1.0.4',
   summary: 'A simple autoform blackbox with preview using jorisroling:eyes',
   git: 'https://github.com/jorisroling/meteor-autoform-blackbox',
   documentation: 'README.md'
